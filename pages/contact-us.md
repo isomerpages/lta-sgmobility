@@ -14,15 +14,4 @@ locations:
         description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: Singapore Mobility Gallery
-contacts:
-  - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
