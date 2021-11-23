@@ -1,12 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
+  - title: Permanent Exhibition
+    collection: permanent-exhibition
   - title: Resource
     resource_room: true
   - title: Visitor Information
     collection: visitor-information
-  - title: Permanent Exhibition
-    collection: permanent-exhibition
+  - title: Contact Us
+    url: /contact-us/
