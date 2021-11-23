@@ -8,7 +8,6 @@ notification: Prior booking is needed three working days in advance for all visi
 sections:
   - hero:
       title: Singapore Mobility Gallery
-      subtitle: Hero subtitle
       background: /images/SMG_overview_wall.jpg
       button: Book your visit
       url: https://go.gov.sg/smgregistration
