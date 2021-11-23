@@ -27,8 +27,6 @@ sections:
       subtitle: About us
       description: Provides a behind-the-scenes look at how LTA plans, designs and
         builds our land transport system
-      button: Button text
-      url: /faq/
   - resources:
       title: Education Resources
       button: View More
