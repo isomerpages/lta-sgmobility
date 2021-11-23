@@ -16,7 +16,8 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resource
-description: An Isomer site of the Singapore Government
+description: Provides a behind-the-scenes look at how LTA plans, designs and
+  builds our land transport system
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +53,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://lta-sgmobility-staging.netlify.app
 prod: https://lta-sgmobility-prod.netlify.app
+is_government: true
