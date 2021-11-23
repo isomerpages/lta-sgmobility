@@ -1,4 +1,5 @@
 collections:
   visitor-information:
     output: true
-    order: []
+    order:
+      - Contact Us.md
