@@ -23,9 +23,10 @@ sections:
           description: rrrr
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Singapore Mobility Gallery
+      subtitle: About us
+      description: Provides a behind-the-scenes look at how LTA plans, designs and
+        builds our land transport system
       button: Button text
       url: /faq/
   - resources:
