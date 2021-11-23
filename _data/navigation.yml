@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: Page
     url: /page/
-  - title: Collection
-    collection: collection
   - title: Resource
     resource_room: true
   - title: Visitor Information
