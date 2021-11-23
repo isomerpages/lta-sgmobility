@@ -1,4 +1,5 @@
 collections:
   permanent-exhibition:
     output: true
-    order: []
+    order:
+      - Permanent Exhibitions.md
