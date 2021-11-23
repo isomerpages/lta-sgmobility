@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Singapore Mobility Gallery
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/SMG_overview_wall.jpg
       button: Book your visit
       url: https://go.gov.sg/smgregistration
       key_highlights:
