@@ -8,3 +8,5 @@ links:
     resource_room: true
   - title: Visitor Information
     collection: visitor-information
+  - title: Permanent Exhibition
+    collection: permanent-exhibition
