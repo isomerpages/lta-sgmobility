@@ -1,0 +1,4 @@
+collections:
+  permanent-exhibition:
+    output: true
+    order: []
