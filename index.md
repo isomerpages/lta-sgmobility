@@ -29,7 +29,6 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Education Resources
       button: View More
 ---
