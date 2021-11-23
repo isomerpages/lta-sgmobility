@@ -3,10 +3,8 @@ title: Visitor Information
 permalink: /visitor-information
 description: ""
 ---
-
 # Free Admission
 Opening Hours:
-
 
 Mondays to Fridays: 9.30am to 5.00pm (excluding Public Holidays)
 
