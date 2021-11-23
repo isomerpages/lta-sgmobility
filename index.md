@@ -28,6 +28,6 @@ sections:
       description: Provides a behind-the-scenes look at how LTA plans, designs and
         builds our land transport system
   - resources:
-      title: Education Resources
+      title: Resources
       button: View More
 ---
