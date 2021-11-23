@@ -2,4 +2,4 @@ collections:
   permanent-exhibition:
     output: true
     order:
-      - Permanent Exhibitions.md
+      - "Zone 1: Land Transport Hero Academy.md"
