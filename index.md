@@ -13,14 +13,14 @@ sections:
       button: Book your visit
       url: https://go.gov.sg/smgregistration
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Explore
+          description: Our permanent exihibitions
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: What's ON
+          description: "Programmes "
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Learn with us
+          description: rrrr
           url: /privacy/
   - infobar:
       title: Infobar title
