@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Singapore Mobility Gallery
-description: Brief site description here
+description: Provides a behind-the-scenes look at how LTA plans, designs and
+  builds our land transport system
 image: /images/isomer-logo.svg
 permalink: /
 notification: Prior booking is needed three working days in advance for all visits.
