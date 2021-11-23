@@ -2,4 +2,4 @@ collections:
   visitor-information:
     output: true
     order:
-      - Visitor Information.md
+      - Location and operating hours.md
