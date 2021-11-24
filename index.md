@@ -20,7 +20,7 @@ sections:
           description: "Programmes "
           url: https://gmail.com
         - title: Learn with us
-          description: rrrr
+          description: Resource kit for educators
           url: /privacy/
   - infobar:
       title: Singapore Mobility Gallery
