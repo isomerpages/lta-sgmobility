@@ -34,7 +34,8 @@ sections:
         Programme
       button: view details
       url: google.com
-      alt: Image alt text
+      alt: AIT Temp exhibition
+      image: /images/AIT_temp_1.JPG
   - resources:
       title: Resources
       button: View More
