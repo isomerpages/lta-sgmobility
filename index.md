@@ -8,7 +8,7 @@ permalink: /
 notification: Prior booking is needed three working days in advance for all visits.
 sections:
   - hero:
-      title: Disocver our Gallery
+      title: Discover our Gallery
       background: /images/SMG_overview_wall.jpg
       button: Book now
       url: https://go.gov.sg/smgregistration
