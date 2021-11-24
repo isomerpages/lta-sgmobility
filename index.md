@@ -33,7 +33,7 @@ sections:
       description: “Oh! The places you’ll go” – Special Exhibition on Art in Transit
         Programme
       button: view details
-      url: google.com
+      url: /art-in-transit-exhibition
       alt: AIT Temp exhibition
       image: /images/AIT_temp_1.JPG
   - resources:
