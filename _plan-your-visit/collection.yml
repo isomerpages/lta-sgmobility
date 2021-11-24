@@ -2,4 +2,5 @@ collections:
   plan-your-visit:
     output: true
     order:
+      - Guidelines.md
       - Location and Operating Hours.md
