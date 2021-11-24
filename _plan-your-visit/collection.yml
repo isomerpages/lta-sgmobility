@@ -1,5 +1,5 @@
 collections:
-  visitor-information:
+  plan-your-visit:
     output: true
     order:
       - Location and Operating Hours.md
