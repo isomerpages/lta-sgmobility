@@ -2,6 +2,7 @@ collections:
   permanent-exhibition:
     output: true
     order:
+      - "Zone 6: Training the Workers of Tomorrow.md"
       - "Zone 5: Future Forward Theatre.md"
       - "Zone 4: Future Mobility.md"
       - "Zone 3: Connected Town of Tomorrow.md"
