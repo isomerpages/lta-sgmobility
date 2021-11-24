@@ -14,7 +14,7 @@ sections:
       url: https://go.gov.sg/smgregistration
       key_highlights:
         - title: Explore
-          description: Our permanent exihibitions
+          description: Our Permanent Exhibitions
           url: https://google.com
         - title: What's ON
           description: "Programmes "
