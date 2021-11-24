@@ -27,6 +27,14 @@ sections:
       subtitle: About us
       description: Provides a behind-the-scenes look at how LTA plans, designs and
         builds our land transport system
+  - infopic:
+      title: Art in Transit Temporary Exhibition
+      subtitle: What's on
+      description: “Oh! The places you’ll go” – Special Exhibition on Art in Transit
+        Programme
+      button: view details
+      url: google.com
+      alt: Image alt text
   - resources:
       title: Resources
       button: View More
