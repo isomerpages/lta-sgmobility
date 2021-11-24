@@ -11,7 +11,7 @@ sections:
       title: Discover our Gallery
       background: /images/SMG_overview_wall.jpg
       button: Video trailer
-      url: https://go.gov.sg/smgregistration
+      url: /permanent-exhibition/discover-smg
       key_highlights:
         - title: Explore
           description: Our Permanent Exhibitions
