@@ -2,10 +2,10 @@ collections:
   permanent-exhibition:
     output: true
     order:
-      - "Zone 7: Pledge to make a difference.md"
       - "Zone 1: Land Transport Hero Academy.md"
       - "Zone 2: rrrr.md"
       - "Zone 3: Connected Town of Tomorrow.md"
       - "Zone 4: Future Mobility.md"
       - "Zone 5: Future Forward Theatre.md"
       - "Zone 6: Training the Workers of Tomorrow.md"
+      - "Zone 7: Pledge to make a difference.md"
