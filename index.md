@@ -8,14 +8,14 @@ permalink: /
 notification: Prior booking is needed three working days in advance for all visits.
 sections:
   - hero:
-      title: Discover our Gallery
+      title: Disocver our Gallery
       background: /images/SMG_overview_wall.jpg
-      button: Video trailer
-      url: /permanent-exhibition/discover-smg
+      button: Book now
+      url: https://go.gov.sg/smgregistration
       key_highlights:
         - title: Explore
           description: Our Permanent Exhibitions
-          url: https://google.com
+          url: /permanent-exhibition/discover-smg
         - title: What's ON
           description: "Programmes "
           url: https://gmail.com
