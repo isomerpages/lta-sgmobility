@@ -2,6 +2,7 @@ collections:
   permanent-exhibition:
     output: true
     order:
+      - "Zone 4: Future Mobility.md"
       - "Zone 3: Connected Town of Tomorrow.md"
       - "Zone 1: Land Transport Hero Academy.md"
       - "Zone 2: rrrr.md"
