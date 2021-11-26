@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Education Programmes/.keep
-      - Educational Programmes.md
       - Education Materials.md
