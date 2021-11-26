@@ -2,4 +2,5 @@ collections:
   learn-with-us:
     output: true
     order:
+      - Educational Programmes.md
       - Education Materials.md
