@@ -3,8 +3,6 @@ title: Location and Operating Hours
 permalink: /visitor-information
 description: ""
 ---
-
-
 # Free Admission
 Opening Hours:
 
