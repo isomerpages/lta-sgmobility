@@ -2,7 +2,6 @@ collections:
   learn-with-us:
     output: true
     order:
-      - Education Programmes/Assembly Talks.md
       - Education Programmes/Educational Programmes.md
       - Education Programmes/.keep
       - Education Materials.md
