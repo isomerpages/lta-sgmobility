@@ -2,6 +2,8 @@ collections:
   permanent-exhibition:
     output: true
     order:
+      - Discover the Singapore Mobility Gallery.md
+      - Zones/.keep
       - "Zones/Zone 7: Pledge to make a difference.md"
       - "Zones/Zone 6: Training the Workers of Tomorrow.md"
       - "Zones/Zone 5: Future Forward Theatre.md"
@@ -9,5 +11,3 @@ collections:
       - "Zones/Zone 3: Connected Town of Tomorrow.md"
       - "Zones/Zone 2: Moving Singapore.md"
       - "Zones/Zone 1: Land Transport Hero Academy.md"
-      - Zones/.keep
-      - Discover the Singapore Mobility Gallery.md
