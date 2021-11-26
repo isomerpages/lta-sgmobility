@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Education Materials/.keep
-      - General Resources.md
       - Education Programmes/Programme Offerings.md
       - Education Programmes/School Visits.md
       - Education Programmes/Educational Programmes.md
