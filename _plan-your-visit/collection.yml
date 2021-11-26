@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - How to Get Here!.md
-      - Guidelines.md
       - Location and Operating Hours.md
