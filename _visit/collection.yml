@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Visitor Information.md
-      - How to Get Here.md
+      - Getting here.md
