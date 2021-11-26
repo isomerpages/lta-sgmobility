@@ -1,5 +1,5 @@
 collections:
-  permanent-exhibition:
+  explore-smg:
     output: true
     order:
       - Discover the Singapore Mobility Gallery.md
