@@ -2,6 +2,7 @@ collections:
   plan-your-visit:
     output: true
     order:
+      - How to Get Here!.md
       - For Schools.md
       - Guidelines.md
       - Location and Operating Hours.md
