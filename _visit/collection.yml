@@ -2,5 +2,5 @@ collections:
   visit:
     output: true
     order:
-      - How to Get Here.md
       - Visitor Information.md
+      - How to Get Here.md
