@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Discover the Singapore Mobility Gallery.md
-      - Zones/.keep
-      - "Zones/Zone 1: Land Transport Hero Academy.md"
-      - "Zones/Zone 2: Moving Singapore.md"
-      - "Zones/Zone 3: Connected Town of Tomorrow.md"
-      - "Zones/Zone 4: Future Mobility.md"
-      - "Zones/Zone 5: Future Forward Theatre.md"
-      - "Zones/Zone 6: Training the Workers of Tomorrow.md"
-      - "Zones/Zone 7: Pledge to make a difference.md"
+      - Permanent Exhibitions/.keep
+      - "Permanent Exhibitions/Zone 1: Land Transport Hero Academy.md"
+      - "Permanent Exhibitions/Zone 2: Moving Singapore.md"
+      - "Permanent Exhibitions/Zone 3: Connected Town of Tomorrow.md"
+      - "Permanent Exhibitions/Zone 4: Future Mobility.md"
+      - "Permanent Exhibitions/Zone 5: Future Forward Theatre.md"
+      - "Permanent Exhibitions/Zone 6: Training the Workers of Tomorrow.md"
+      - "Permanent Exhibitions/Zone 7: Pledge to make a difference.md"
