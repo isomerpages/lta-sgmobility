@@ -2,7 +2,7 @@ collections:
   discover:
     output: true
     order:
-      - Trailer of our Gallery.md
+      - Trailer.md
       - Permanent Exhibitions/.keep
       - "Permanent Exhibitions/Zone 1: Land Transport Hero Academy.md"
       - "Permanent Exhibitions/Zone 2: Moving Singapore.md"
