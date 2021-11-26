@@ -2,6 +2,7 @@ collections:
   learn-with-us:
     output: true
     order:
+      - Education Materials/School Resources.md
       - Education Materials/General Resources.md
       - Education Materials/.keep
       - Education Programmes/Programme Offerings.md
