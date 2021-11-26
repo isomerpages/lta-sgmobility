@@ -9,7 +9,7 @@ notification: Prior booking is needed three working days in advance for all visi
 sections:
   - hero:
       title: Discover our Gallery
-      background: /images/SMG_overview_wall.jpg
+      background: /images/zone-images/SMG_overview_wall.jpg
       button: Book now
       url: https://go.gov.sg/smgregistration
       key_highlights:
@@ -35,7 +35,7 @@ sections:
       button: view details
       url: /art-in-transit-exhibition
       alt: AIT Temp exhibition
-      image: /images/AIT_temp_1.JPG
+      image: /images/temp-exhibition/AIT_temp_1.JPG
   - resources:
       title: Resources
       button: View More
