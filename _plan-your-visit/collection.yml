@@ -2,5 +2,5 @@ collections:
   plan-your-visit:
     output: true
     order:
-      - How to Get Here!.md
+      - How to Get Here.md
       - Location and Operating Hours.md
