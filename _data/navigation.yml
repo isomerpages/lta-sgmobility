@@ -2,13 +2,11 @@ logo: /images/SMG%20logo.jpg
 links:
   - title: Discover
     collection: discover
-  - title: Resource
-    resource_room: true
-  - title: Plan Your Visit
-    collection: plan-your-visit
-  - title: Contact Us
-    url: /contact-us/
-  - title: Learn With Us
-    collection: learn-with-us
   - title: Whats On
     collection: whats-on
+  - title: Plan Your Visit
+    collection: plan-your-visit
+  - title: Learn With Us
+    collection: learn-with-us
+  - title: Contact Us
+    url: /contact-us/
