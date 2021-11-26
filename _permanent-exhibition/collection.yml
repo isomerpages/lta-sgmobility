@@ -2,6 +2,7 @@ collections:
   permanent-exhibition:
     output: true
     order:
+      - "Zones/Zone 2: Moving Singapore.md"
       - "Zones/Zone 1: Land Transport Hero Academy.md"
       - Zones/.keep
       - Discover the Singapore Mobility Gallery.md
