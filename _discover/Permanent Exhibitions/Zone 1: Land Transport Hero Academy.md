@@ -4,12 +4,9 @@ permalink: /Zone-1
 description: ""
 third_nav_title: Permanent Exhibitions
 ---
-
-
-
 # Zone 1: Land Transport Hero Academy
 
-![Alt text for image on Isomer site](/images/SMG_overview_wall.jpg)
+![Alt text for image on Isomer site](/images/zone-images/Zone%201.jpg)
 
 Interact with Jamie, our Gallery’s virtual host for more information on each zone as well as real-time updates on foot traffic for a more pleasant visit.
 
